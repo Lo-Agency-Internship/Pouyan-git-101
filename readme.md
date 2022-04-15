@@ -12,10 +12,7 @@
 |10| pull      |This command fetches content of a remote repository however, unlike fetch, it will merge them with the local branch and update it.|
 |11| push     |This git command is used to upload the contents and commits of the local repository to a remote repository. It is the opposite of the fetch command.|
 |12| repository |It is a virtual space to store our projects -and different versions of it- offered by many platforms like GitHub being among the most popular.|
-|13| stash      |This command saves us from unmeaningfull commits or reseting, it stashes our work (saves it in another location) temporarily and this allows us to work on other features and give us the freedom to come back to them whenever ready for commiting.
-Here is a 
-[picture](https://cms-assets.tutsplus.com/cdn-cgi/image/width=600/uploads/users/585/posts/22988/image/git-stash-stashing-changes.png "picturing stash (a little fun: you just discovered an Easter Egg by hovering over this link, your prize? go out for a drink, it's on me, and if you come visit me, there shall be another round!)")
-for your visual reference|
+|13| stash      |This command saves us from unmeaningfull commits or reseting, it stashes our work (saves it in another location) temporarily and this allows us to work on other features and give us the freedom to come back to them whenever ready for commiting.<br /> *Here is a [picture](https://cms-assets.tutsplus.com/cdn-cgi/image/width=600/uploads/users/585/posts/22988/image/git-stash-stashing-changes.png "picturing stash (a little fun: you just discovered an Easter Egg by hovering over this link, your prize? go out for a drink, it's on me, and if you come visit me, there shall be another round!)") for your visual reference|
 
     
     
