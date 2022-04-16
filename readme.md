@@ -13,8 +13,12 @@
 |11| push     |This git command is used to upload the contents and commits of the local repository to a remote repository. It is the opposite of the fetch command.|
 |12| repository |It is a virtual space to store our projects -and different versions of it- offered by many platforms like GitHub being among the most popular.|
 |13| stash      |This command saves us from unmeaningfull commits or reseting, it stashes our work (saves it in another location) temporarily and this allows us to work on other features and give us the freedom to come back to them whenever ready for commiting.<br /> * Here is a [picture](https://cms-assets.tutsplus.com/cdn-cgi/image/width=600/uploads/users/585/posts/22988/image/git-stash-stashing-changes.png "picturing stash (a little fun: you just discovered an Easter Egg by hovering over this link, your prize? go out for a drink, it's on me, and if you come visit me, there shall be another round!)") for your visual reference|
-
-    
+***
+|No.| Subject        | Definition   |
+|:-------------:| :-------------: |:-------------|
+|14|clone| An action that we can copy all the contents of the specified repository and create new local directory for repository.|
+|15|rebase|It is so similar to mergeing action, rebase write commit history again. with rebase we can change and move commits to new base commit. |
+|16|cherrypick|A command is used for choose one commit from a branch and transfer to another branches.|    
     
    
     
